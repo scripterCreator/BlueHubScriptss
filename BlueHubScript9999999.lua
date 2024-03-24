@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://shz.al/rjGZFXGtASyzpzsKyadazePR"))()
+return loadstring(game:HttpGet("https://shz.al/H8AZByMYwteb7cGMjnNGFKGF"))()
